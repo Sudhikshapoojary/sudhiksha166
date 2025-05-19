@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "066a",
+      "name": "sudhiksha",
+      "email": "Sudhiksha.23cs@sode-edu.in",
+      "mobile": "9932145678",
+      "gender": "female",
+      "address": "katapady"
+    },
+    {
+      "id": "s3as",
+      "name": "Sudhiksha Poojary",
+      "email": "Sudhikshapoojaryy@gmail.com",
+      "mobile": "9611152403",
+      "gender": "female",
+      "address": "udupi"
+    }
+  ]
+}
